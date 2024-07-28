@@ -2,7 +2,7 @@
   "name": "goit-js-hw-11",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://SimonaIlona.github.io/goit-js-hw-11",
+  "homepage": "https://github.com/SimonaIlona/goit-js-hw-11",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-11/"
@@ -15,7 +15,7 @@
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SimonaIlona/goit-js-hw-11/issues"
+    "url": "https://https://github.com/SimonaIlona/goit-js-hw-11/issues"
   },
   "dependencies": {
     "axios": "^1.7.2",
